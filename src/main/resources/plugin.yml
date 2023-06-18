@@ -1,6 +1,6 @@
 name: DeathpointTP
 version: '${project.version}'
-main: com.entidevelopments.deathpointtp.Deathpointtp
+main: com.entidevelopments.deathpointtp.DeathpointTp
 api-version: !!str 1.20
 authors: [ BabyEntchen ]
 commands:
