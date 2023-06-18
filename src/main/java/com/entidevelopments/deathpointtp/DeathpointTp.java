@@ -13,12 +13,10 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.entity.PlayerDeathEvent;
 import org.bukkit.plugin.java.JavaPlugin;
 
-import java.awt.*;
 import java.util.*;
-import java.util.List;
 
 
-public final class Deathpointtp extends JavaPlugin implements Listener, CommandExecutor {
+public final class DeathpointTp extends JavaPlugin implements Listener, CommandExecutor {
     public Map<String, List<Integer>> deathPoints = new HashMap<>();
     public String prefix = "§l[Server]§r ";
 
