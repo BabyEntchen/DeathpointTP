@@ -1,0 +1,9 @@
+name: DeathpointTP
+version: '${project.version}'
+main: com.entidevelopments.deathpointtp.Deathpointtp
+api-version: !!str 1.20
+authors: [ BabyEntchen ]
+commands:
+  back:
+    description: Teleportiert dich zu deinem Todespunkt
+    usage: /back
