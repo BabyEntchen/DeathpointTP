@@ -1,4 +1,4 @@
-# DeathpointTP
+# DeathpointTP 1.20 Paper Plugin
 
 Tp yourself to the position you died at. Use the command or click a chat message to do so
 
